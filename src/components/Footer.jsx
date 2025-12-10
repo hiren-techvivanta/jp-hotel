@@ -71,7 +71,7 @@ const Footer = () => {
               <small className="text-white">&copy; {currentYear} {import.meta.env.VITE_PROJECT_NAME}. All rights reserved.</small>
             </div>
             <div className="col-md-6 text-center text-md-end mt-3 mt-md-0">
-              <small className="text-white">Designed with ❤️ for travelers.</small>
+             
             </div>
           </div>
         </div>
