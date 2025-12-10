@@ -1,0 +1,95 @@
+// Modern Color Palette - Sophisticated & Luxurious
+$transparent: pointer-events;
+$background: #F8F9FA; // Clean, modern background
+$blue: #1E88E5; // Modern blue for accents
+
+// Primary Brand Colors - Luxury Hotel Theme
+$red-primary: #D32F2F; // Rich, sophisticated red
+$red-secondary: #B71C1C; // Deep red for contrast
+$grey-primary: #2D3748; // Modern dark grey
+$black-primary: #1A202C; // Soft black
+$white-primary: #FFFFFF; // Pure white
+$purple-primary: #6A1B9A; // Deep purple accent
+
+// Modern Red Shades - Gradient-friendly
+$red-light: #FFEBEE;
+$red-medium: #FFCDD2;
+$red-dark: #B71C1C;
+$red-deep-dark: #7F0000;
+
+// Sophisticated Grey Shades
+$dark-white: #F5F5F5;
+$divider-grey: #E0E0E0;
+$grey-dark: #4A5568;
+$grey-medium: #718096;
+$grey-light: #A0AEC0;
+$grey-extra-light: #E2E8F0;
+
+// Modern Accent Colors
+$orange-primary: #F57C00; // Vibrant orange
+$green-primary: #388E3C; // Rich green
+$teal-primary: #00897B; // Modern teal
+$indigo-primary: #3949AB; // Deep indigo
+
+// Gradient Colors for Modern Effects
+$gradient-primary: linear-gradient(135deg, $red-primary 0%, $red-secondary 100%);
+$gradient-secondary: linear-gradient(135deg, $indigo-primary 0%, $purple-primary 100%);
+$gradient-success: linear-gradient(135deg, $green-primary 0%, #66BB6A 100%);
+
+// Text Colors - Improved Readability
+$app-bar-text-color: #2D3748;
+$headline-text-color: #1A202C;
+$body-text-color: #4A5568;
+$light-text-color: #718096;
+
+// Bootstrap Overrides - Modernized
+$primary: $red-primary;
+$secondary: $grey-primary;
+$success: $green-primary;
+$info: $blue;
+$warning: $orange-primary;
+$danger: $red-primary;
+$light: $grey-extra-light;
+$dark: $black-primary;
+
+$body-bg: $background;
+$body-color: $headline-text-color;
+
+// Modern Typography
+$font-family-sans-serif: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+$enable-shadows: true;
+$enable-gradients: true;
+$enable-smooth-scroll: true;
+
+// Modern Border Radius System
+$border-radius-sm: 0.25rem;
+$border-radius: 0.5rem;
+$border-radius-lg: 1rem;
+$border-radius-xl: 1.5rem;
+$border-radius-pill: 50rem;
+
+// Modern Spacing System
+$spacing-1: 0.25rem;
+$spacing-2: 0.5rem;
+$spacing-3: 0.75rem;
+$spacing-4: 1rem;
+$spacing-5: 1.25rem;
+$spacing-6: 1.5rem;
+$spacing-8: 2rem;
+$spacing-10: 2.5rem;
+$spacing-12: 3rem;
+
+// Modern Box Shadows
+$box-shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+$box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+$box-shadow-lg: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+$box-shadow-xl: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+$box-shadow-2xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+$box-shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+
+// Modern Transitions
+$transition-base: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+$transition-fast: all 0.1s cubic-bezier(0.4, 0, 0.2, 1);
+$transition-slow: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+$transition-extra-slow: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
