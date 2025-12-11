@@ -13,13 +13,13 @@ const Footer = () => {
             <p className="text-white mb-4" style={{ maxWidth: '300px' }}>
               Your smart companion for comfortable, safe, and flexible stays. Experience hospitality reimagined.
             </p>
-            <div className="d-flex gap-3">
+            {/* <div className="d-flex gap-3">
               {[FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn].map((Icon, idx) => (
                 <a href="#" key={idx} className="social-icon">
                   <Icon />
                 </a>
               ))}
-            </div>
+            </div> */}
           </div>
 
           <div className="col-lg-2 col-md-6">

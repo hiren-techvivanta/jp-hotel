@@ -25,7 +25,7 @@ const Contact = () => {
 
               <div className="d-flex flex-column gap-4">
                   {[
-                      { icon: FaMapMarkerAlt, title: "Office Location", text: "(Add your address here)" },
+                      { icon: FaMapMarkerAlt, title: "Office Location", text: "173, M block,  Site-1, New Rajinder nagar,  Delhi-110060" },
                       { icon: FaPhoneAlt, title: "Phone", text: import.meta.env.VITE_COMPANY_MOBILE },
                       { icon: FaEnvelope, title: "Email", text: import.meta.env.VITE_COMPANY_EMAIL },
                       { icon: FaClock, title: "Availability", text: "Available 24/7 for support" }
